@@ -1,2 +1,2 @@
 # vk-api
-UI/API test project created under internship educational purpose.
+UI/API test project created under internship program with educational purpose.
